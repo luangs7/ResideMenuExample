@@ -45,7 +45,7 @@
         android:id="@+id/navigation_view"
         android:layout_width="240dp"
         android:layout_height="match_parent"
-        android:layout_gravity="left"
+        android:layout_gravity="right"
         android:background="#555555" />
 
 </android.support.v4.widget.DrawerLayout>
