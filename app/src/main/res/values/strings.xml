@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResideMenuExample</string>
+
+    <string-array name="messages">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+</resources>
